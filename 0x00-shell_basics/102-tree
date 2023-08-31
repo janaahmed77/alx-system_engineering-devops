@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdri -p welcome/to/school/
+mkdri -p welcome/to/school
