@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp --form=guillaume betty hello
+chgrp --from=guillaume betty hello
