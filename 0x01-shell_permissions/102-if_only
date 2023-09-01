@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp hello betty 
+chgrp --form=guillaume betty hello
